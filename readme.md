@@ -1,4 +1,4 @@
-##**AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"**##
+# AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"#
 "Unifying Africa’s Financial Future"
 
 ## PROJECT NAME ##
