@@ -1,23 +1,22 @@
-AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"
+##**AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"**##
 "Unifying Africa’s Financial Future"
 
-PROJECT NAME
+## PROJECT NAME ##
 AfriLink – A digital platform powered by ACT (African Currency Token), a basket-backed stablecoin designed to unify Africa’s fragmented financial systems, enable seamless cross-border transactions, and combat currency volatility.
 
-PURPOSE
-Core Mission
+## PURPOSE ##
+# Core Mission #
 To create a unified, stable, and inclusive financial ecosystem for Africa by:
 
-1.
-Reducing Reliance on Volatile Fiat Currencies:
+1. Reducing Reliance on Volatile Fiat Currencies:
 ACT is pegged to a basket of stable assets (e.g., gold, USD, EUR) to shield users from hyperinflation (e.g., Zimbabwe, Sudan) and currency crashes (e.g., Nigerian Naira).
-2.
-Enabling Low-Cost Cross-Border Payments:
+2. Enabling Low-Cost Cross-Border Payments:
 Leverage Stellar’s blockchain to settle transactions in seconds with near-zero fees (vs. 10%+ fees from legacy systems like Western Union).
-3.
-Promoting Financial Inclusion:
+3. Promoting Financial Inclusion:
 Provide unbanked populations (57% of Africa’s population) with secure, mobile-first access to savings, payments, and credit.
-CORE FUNCTIONALITY
+
+"CORE FUNCTIONALITY"
+
 1. User Features
 A. Wallet Management
 Multi-Currency Wallets:
