@@ -1,5 +1,5 @@
-# AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"#
-"Unifying Africa’s Financial Future"
+# AFRICAN CURRENCY PLATFORM (ACP) – "AFRILINK"
+Unifying Africa’s Financial Future
 
 ## PROJECT NAME ##
 AfriLink – A digital platform powered by ACT (African Currency Token), a basket-backed stablecoin designed to unify Africa’s fragmented financial systems, enable seamless cross-border transactions, and combat currency volatility.
