@@ -1,5 +1,3 @@
-"use server"
-
 import crypto from "crypto"
 
 const ENCRYPTION_KEY = process.env.WALLET_ENCRYPTION_KEY || "default-encryption-key-change-in-production"

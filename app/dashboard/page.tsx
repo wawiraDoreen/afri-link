@@ -19,10 +19,10 @@ export default async function DashboardPage() {
   }
 
   const { data: profile, error: profileError } = await supabase
-    .from("user_profiles")
+    .from("profiles")
     .select("*")
-    .eq("user_id", user.id)
-    .single()
+    .eq("id", user.id)
+    .maybeSingle()
 
   console.log("[v0] Profile fetch:", { profile, profileError })
 
