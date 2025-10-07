@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/update-rates",
+      "schedule": "0 * * * *"
+    },
+    {
+      "path": "/api/cron/update-gold-price",
+      "schedule": "*/30 * * * *"
+    }
+  ]
+}
